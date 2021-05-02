@@ -177,3 +177,9 @@ bin-int/Debug-windows-x86_64/GLFW/GLFW.log
 bin-int/Debug-windows-x86_64/GLFW/GLFW.idb
 bin-int/Debug-windows-x86_64/GLFW/egl_context.obj
 bin-int/Debug-windows-x86_64/GLFW/context.obj
+bin-int/Debug-windows-x86_64/GLFW/GLFW.tlog/CL.command.1.tlog
+bin-int/Debug-windows-x86_64/GLFW/GLFW.tlog/CL.write.1.tlog
+bin-int/Debug-windows-x86_64/GLFW/GLFW.tlog/Lib-link.read.1.tlog
+bin-int/Debug-windows-x86_64/GLFW/GLFW.tlog/Lib-link.write.1.tlog
+bin-int/Debug-windows-x86_64/GLFW/GLFW.tlog/Lib.command.1.tlog
+bin-int/Release-windows-x86_64/GLFW/GLFW.Build.CppClean.log
